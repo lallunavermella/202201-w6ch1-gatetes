@@ -2,11 +2,18 @@
   "gatetes": [
     {
       "id": 1,
-      "name": "do something"
+      "name": "sleep all day",
+      "done": true
     },
     {
       "id": 2,
-      "name": "do something2"
+      "name": "sleep in the sofa",
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "scratch the sofa",
+      "done": false
     }
   ]
 }
