@@ -14,6 +14,26 @@
       "id": 3,
       "name": "scratch the sofa",
       "done": false
+    },
+    {
+      "id": 4,
+      "name": "play with a shadow",
+      "done": false
+    },
+    {
+      "id": 5,
+      "name": "eat tuna can",
+      "done": false
+    },
+    {
+      "id": 6,
+      "name": "walk on the keyword",
+      "done": false
+    },
+    {
+      "id": 7,
+      "name": "sleep in the laptop",
+      "done": false
     }
   ]
 }
